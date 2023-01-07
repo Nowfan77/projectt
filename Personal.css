@@ -247,4 +247,13 @@ li {
 	-webkit-transform: scale(1.3);
 	transform: scale(1.3);
 }
+@media screen and (max-width: 767px) {
+    .chess,.list,.cal,.job{
+        text-align: center;
+        gap: 10px;
+    }
+<<<<<<< Updated upstream
+=======
+}
 
+>>>>>>> Stashed changes
